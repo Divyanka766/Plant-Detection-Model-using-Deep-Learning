@@ -1,4 +1,4 @@
-## 🌿 Plant-Detection-Model-using-Deep-Learning
+## 🌿 Plant-Disease- Detection-Model-using-Deep-Learning
 A deep learning–based system that can identify plant leaf diseases from images with 98% accuracy — and tell you the **cause** and **cure**! Built using **EfficientNet**, trained on the **PlantVillage** dataset, and deployed with an interactive **Streamlit app**.
 ## 🚀 Project Overview
 This project uses computer vision and deep learning to identify various plant diseases from leaf images. With an intuitive web interface, users can upload an image and instantly receive a diagnosis — including:
