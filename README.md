@@ -17,7 +17,7 @@ This project uses computer vision and deep learning to identify various plant di
 - **JSON** – to store metadata about diseases (cause & cure)
 ## 🧪 How to Run the App Locally
 1. **Clone the repository**
-2. ```bash
+ ```bash
    git clone https://github.com/Divyanka766/Plant-Disease-Detection-Model-using-Deep-Learning.git
    cd Plant-disease-detection
    ```
